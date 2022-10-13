@@ -1,0 +1,23 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hola 👋, Soy María Eliana Infante Izquierdo</h1> <h3 align=\"center\">Soy diseñadora integral de la Universidad Católica, especializada en diseño UX/UI</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maritainfante/proyecto-portafolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maritainfante/proyecto-portafolio/issues"
+  },
+  "homepage": "https://github.com/maritainfante/proyecto-portafolio#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
